@@ -1,0 +1,17 @@
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/obj/Debug/Assembly-CSharp.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/UnityEngine.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/UnityEditor.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Hande/Desktop/Learning Unity/LearningUnity1/Number-Wizard-Ui/Temp/bin/Debug/Mono.Cecil.Mdb.dll

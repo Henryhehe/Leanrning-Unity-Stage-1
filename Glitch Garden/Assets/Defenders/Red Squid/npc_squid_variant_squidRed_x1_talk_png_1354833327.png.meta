@@ -1,0 +1,1775 @@
+fileFormatVersion: 2
+guid: bc345677b098b475aa247acbb78e1f7f
+timeCreated: 1465360596
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_squid_variant_squidRed_x1_talk_png_1354833327_0
+    21300002: npc_squid_variant_squidRed_x1_talk_png_1354833327_1
+    21300004: npc_squid_variant_squidRed_x1_talk_png_1354833327_2
+    21300006: npc_squid_variant_squidRed_x1_talk_png_1354833327_3
+    21300008: npc_squid_variant_squidRed_x1_talk_png_1354833327_4
+    21300010: npc_squid_variant_squidRed_x1_talk_png_1354833327_5
+    21300012: npc_squid_variant_squidRed_x1_talk_png_1354833327_6
+    21300014: npc_squid_variant_squidRed_x1_talk_png_1354833327_7
+    21300016: npc_squid_variant_squidRed_x1_talk_png_1354833327_8
+    21300018: npc_squid_variant_squidRed_x1_talk_png_1354833327_9
+    21300020: npc_squid_variant_squidRed_x1_talk_png_1354833327_10
+    21300022: npc_squid_variant_squidRed_x1_talk_png_1354833327_11
+    21300024: npc_squid_variant_squidRed_x1_talk_png_1354833327_12
+    21300026: npc_squid_variant_squidRed_x1_talk_png_1354833327_13
+    21300028: npc_squid_variant_squidRed_x1_talk_png_1354833327_14
+    21300030: npc_squid_variant_squidRed_x1_talk_png_1354833327_15
+    21300032: npc_squid_variant_squidRed_x1_talk_png_1354833327_16
+    21300034: npc_squid_variant_squidRed_x1_talk_png_1354833327_17
+    21300036: npc_squid_variant_squidRed_x1_talk_png_1354833327_18
+    21300038: npc_squid_variant_squidRed_x1_talk_png_1354833327_19
+    21300040: npc_squid_variant_squidRed_x1_talk_png_1354833327_20
+    21300042: npc_squid_variant_squidRed_x1_talk_png_1354833327_21
+    21300044: npc_squid_variant_squidRed_x1_talk_png_1354833327_22
+    21300046: npc_squid_variant_squidRed_x1_talk_png_1354833327_23
+    21300048: npc_squid_variant_squidRed_x1_talk_png_1354833327_24
+    21300050: npc_squid_variant_squidRed_x1_talk_png_1354833327_25
+    21300052: npc_squid_variant_squidRed_x1_talk_png_1354833327_26
+    21300054: npc_squid_variant_squidRed_x1_talk_png_1354833327_27
+    21300056: npc_squid_variant_squidRed_x1_talk_png_1354833327_28
+    21300058: npc_squid_variant_squidRed_x1_talk_png_1354833327_29
+    21300060: npc_squid_variant_squidRed_x1_talk_png_1354833327_30
+    21300062: npc_squid_variant_squidRed_x1_talk_png_1354833327_31
+    21300064: npc_squid_variant_squidRed_x1_talk_png_1354833327_32
+    21300066: npc_squid_variant_squidRed_x1_talk_png_1354833327_33
+    21300068: npc_squid_variant_squidRed_x1_talk_png_1354833327_34
+    21300070: npc_squid_variant_squidRed_x1_talk_png_1354833327_35
+    21300072: npc_squid_variant_squidRed_x1_talk_png_1354833327_36
+    21300074: npc_squid_variant_squidRed_x1_talk_png_1354833327_37
+    21300076: npc_squid_variant_squidRed_x1_talk_png_1354833327_38
+    21300078: npc_squid_variant_squidRed_x1_talk_png_1354833327_39
+    21300080: npc_squid_variant_squidRed_x1_talk_png_1354833327_40
+    21300082: npc_squid_variant_squidRed_x1_talk_png_1354833327_41
+    21300084: npc_squid_variant_squidRed_x1_talk_png_1354833327_42
+    21300086: npc_squid_variant_squidRed_x1_talk_png_1354833327_43
+    21300088: npc_squid_variant_squidRed_x1_talk_png_1354833327_44
+    21300090: npc_squid_variant_squidRed_x1_talk_png_1354833327_45
+    21300092: npc_squid_variant_squidRed_x1_talk_png_1354833327_46
+    21300094: npc_squid_variant_squidRed_x1_talk_png_1354833327_47
+    21300096: npc_squid_variant_squidRed_x1_talk_png_1354833327_48
+    21300098: npc_squid_variant_squidRed_x1_talk_png_1354833327_49
+    21300100: npc_squid_variant_squidRed_x1_talk_png_1354833327_50
+    21300102: npc_squid_variant_squidRed_x1_talk_png_1354833327_51
+    21300104: npc_squid_variant_squidRed_x1_talk_png_1354833327_52
+    21300106: npc_squid_variant_squidRed_x1_talk_png_1354833327_53
+    21300108: npc_squid_variant_squidRed_x1_talk_png_1354833327_54
+    21300110: npc_squid_variant_squidRed_x1_talk_png_1354833327_55
+    21300112: npc_squid_variant_squidRed_x1_talk_png_1354833327_56
+    21300114: npc_squid_variant_squidRed_x1_talk_png_1354833327_57
+    21300116: npc_squid_variant_squidRed_x1_talk_png_1354833327_58
+    21300118: npc_squid_variant_squidRed_x1_talk_png_1354833327_59
+    21300120: npc_squid_variant_squidRed_x1_talk_png_1354833327_60
+    21300122: npc_squid_variant_squidRed_x1_talk_png_1354833327_61
+    21300124: npc_squid_variant_squidRed_x1_talk_png_1354833327_62
+    21300126: npc_squid_variant_squidRed_x1_talk_png_1354833327_63
+    21300128: npc_squid_variant_squidRed_x1_talk_png_1354833327_64
+    21300130: npc_squid_variant_squidRed_x1_talk_png_1354833327_65
+    21300132: npc_squid_variant_squidRed_x1_talk_png_1354833327_66
+    21300134: npc_squid_variant_squidRed_x1_talk_png_1354833327_67
+    21300136: npc_squid_variant_squidRed_x1_talk_png_1354833327_68
+    21300138: npc_squid_variant_squidRed_x1_talk_png_1354833327_69
+    21300140: npc_squid_variant_squidRed_x1_talk_png_1354833327_70
+    21300142: npc_squid_variant_squidRed_x1_talk_png_1354833327_71
+    21300144: npc_squid_variant_squidRed_x1_talk_png_1354833327_72
+    21300146: npc_squid_variant_squidRed_x1_talk_png_1354833327_73
+    21300148: npc_squid_variant_squidRed_x1_talk_png_1354833327_74
+    21300150: npc_squid_variant_squidRed_x1_talk_png_1354833327_75
+    21300152: npc_squid_variant_squidRed_x1_talk_png_1354833327_76
+    21300154: npc_squid_variant_squidRed_x1_talk_png_1354833327_77
+    21300156: npc_squid_variant_squidRed_x1_talk_png_1354833327_78
+    21300158: npc_squid_variant_squidRed_x1_talk_png_1354833327_79
+    21300160: npc_squid_variant_squidRed_x1_talk_png_1354833327_80
+    21300162: npc_squid_variant_squidRed_x1_talk_png_1354833327_81
+    21300164: npc_squid_variant_squidRed_x1_talk_png_1354833327_82
+    21300166: npc_squid_variant_squidRed_x1_talk_png_1354833327_83
+    21300168: npc_squid_variant_squidRed_x1_talk_png_1354833327_84
+    21300170: npc_squid_variant_squidRed_x1_talk_png_1354833327_85
+    21300172: npc_squid_variant_squidRed_x1_talk_png_1354833327_86
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 177.77
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1321
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.618858, y: -17.5083}
+        - {x: -14.618858, y: -19.5083}
+        - {x: 18.381142, y: -19.5083}
+        - {x: 18.381142, y: 12.491699}
+        - {x: 16.381142, y: 20.4917}
+        - {x: -11.618858, y: 20.4917}
+        - {x: -16.618858, y: 4.491699}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1321
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5855255, y: 20.4917}
+        - {x: -13.5855255, y: 16.4917}
+        - {x: -16.585526, y: 3.4916992}
+        - {x: -16.585526, y: -16.5083}
+        - {x: -14.5855255, y: -19.5083}
+        - {x: 11.4144745, y: -19.5083}
+        - {x: 17.414474, y: -13.508301}
+        - {x: 17.414474, y: 13.491699}
+        - {x: 16.414474, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1321
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.633179, y: 20.4917}
+        - {x: -16.633179, y: 19.4917}
+        - {x: -16.633179, y: -19.5083}
+        - {x: 17.366821, y: -19.5083}
+        - {x: 17.366821, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_3
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1321
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.599823, y: 20.4917}
+        - {x: -16.599823, y: 9.491699}
+        - {x: -16.599823, y: -17.5083}
+        - {x: -14.599823, y: -19.5083}
+        - {x: 13.400177, y: -19.5083}
+        - {x: 18.400177, y: -15.508301}
+        - {x: 18.400177, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1321
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.066467, y: 20.4917}
+        - {x: -17.066467, y: -19.5083}
+        - {x: 14.933533, y: -19.5083}
+        - {x: 17.933533, y: -14.508301}
+        - {x: 17.933533, y: 17.4917}
+        - {x: 16.933533, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1321
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.114136, y: -19.5083}
+        - {x: 14.885864, y: -19.5083}
+        - {x: 17.885864, y: -18.5083}
+        - {x: 17.885864, y: 20.4917}
+        - {x: -12.114136, y: 20.4917}
+        - {x: -17.114136, y: 6.491699}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_6
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1321
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.999817, y: 20.4917}
+        - {x: -12.999817, y: 17.4917}
+        - {x: -16.999817, y: -4.508301}
+        - {x: -16.999817, y: -15.508301}
+        - {x: -13.999817, y: -19.5083}
+        - {x: 15.000183, y: -19.5083}
+        - {x: 18.000183, y: -15.508301}
+        - {x: 18.000183, y: 13.491699}
+        - {x: 17.000183, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_7
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1321
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.047485, y: 1.4916992}
+        - {x: -17.047485, y: -18.5083}
+        - {x: -16.047485, y: -19.5083}
+        - {x: 16.952515, y: -19.5083}
+        - {x: 17.952515, y: -18.5083}
+        - {x: 17.952515, y: 17.4917}
+        - {x: 16.952515, y: 20.4917}
+        - {x: -11.047485, y: 20.4917}
+        - {x: -12.047485, y: 17.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_8
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1321
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.933105, y: 20.4917}
+        - {x: -16.933105, y: 4.491699}
+        - {x: -16.933105, y: -16.5083}
+        - {x: -14.933105, y: -19.5083}
+        - {x: 18.066895, y: -19.5083}
+        - {x: 18.066895, y: 10.491699}
+        - {x: 15.066895, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_9
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1321
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.318848, y: -17.5083}
+        - {x: -14.318848, y: -19.5083}
+        - {x: 15.681152, y: -19.5083}
+        - {x: 17.681152, y: -18.5083}
+        - {x: 17.681152, y: 17.4917}
+        - {x: 16.681152, y: 20.4917}
+        - {x: -10.318848, y: 20.4917}
+        - {x: -16.318848, y: 7.491699}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_10
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1321
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.2854, y: 20.4917}
+        - {x: -13.2854, y: 16.4917}
+        - {x: -16.2854, y: 5.491699}
+        - {x: -16.2854, y: -16.5083}
+        - {x: -14.2854, y: -19.5083}
+        - {x: 12.7146, y: -19.5083}
+        - {x: 16.7146, y: -14.508301}
+        - {x: 16.7146, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_11
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1321
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.252075, y: -14.508301}
+        - {x: -12.252075, y: -19.5083}
+        - {x: 13.747925, y: -19.5083}
+        - {x: 17.747925, y: -17.5083}
+        - {x: 17.747925, y: 12.491699}
+        - {x: 15.747925, y: 19.4917}
+        - {x: 13.747925, y: 20.4917}
+        - {x: -13.252075, y: 20.4917}
+        - {x: -16.252075, y: 10.491699}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_12
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 1321
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.28125, y: 20.4917}
+        - {x: -11.71875, y: 20.4917}
+        - {x: -14.71875, y: 17.4917}
+        - {x: -16.71875, y: 9.491699}
+        - {x: -16.71875, y: -19.5083}
+        - {x: 15.28125, y: -19.5083}
+        - {x: 17.28125, y: -16.5083}
+        - {x: 17.28125, y: 16.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_13
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1321
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.7664795, y: 20.4917}
+        - {x: -16.76648, y: 9.491699}
+        - {x: -16.76648, y: -19.5083}
+        - {x: 14.2335205, y: -19.5083}
+        - {x: 17.23352, y: -14.508301}
+        - {x: 17.23352, y: 2.4916992}
+        - {x: 15.2335205, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_14
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1321
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.6521, y: 20.4917}
+        - {x: -16.6521, y: 9.491699}
+        - {x: -16.6521, y: -19.5083}
+        - {x: 16.3479, y: -19.5083}
+        - {x: 17.3479, y: -16.5083}
+        - {x: 17.3479, y: 8.491699}
+        - {x: 16.3479, y: 20.4917}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1071
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.300148, y: 19.743408}
+        - {x: -16.699852, y: 19.743408}
+        - {x: -16.699852, y: -19.256592}
+        - {x: 13.300148, y: -19.256592}
+        - {x: 17.300148, y: -13.256592}
+        - {x: 17.300148, y: 10.743408}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1070
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.585526, y: 20.662415}
+        - {x: -16.585526, y: -18.337585}
+        - {x: -15.5855255, y: -19.337585}
+        - {x: 13.4144745, y: -19.337585}
+        - {x: 17.414474, y: -12.337585}
+        - {x: 17.414474, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1070
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.633179, y: 20.662415}
+        - {x: -16.633179, y: 4.6624146}
+        - {x: -16.633179, y: -19.337585}
+        - {x: 17.366821, y: -19.337585}
+        - {x: 17.366821, y: 15.662415}
+        - {x: 16.366821, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_18
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1070
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.518829, y: 20.662415}
+        - {x: -16.51883, y: 17.662415}
+        - {x: -16.51883, y: -19.337585}
+        - {x: 12.481171, y: -19.337585}
+        - {x: 17.48117, y: -16.337585}
+        - {x: 17.48117, y: 6.6624146}
+        - {x: 14.481171, y: 18.662415}
+        - {x: 12.481171, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_19
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1070
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.066467, y: 20.662415}
+        - {x: -17.066467, y: 10.662415}
+        - {x: -17.066467, y: -15.337585}
+        - {x: -13.066467, y: -19.337585}
+        - {x: 12.933533, y: -19.337585}
+        - {x: 17.933533, y: -13.337585}
+        - {x: 17.933533, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_20
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1070
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.452148, y: 20.662415}
+        - {x: -16.452148, y: 14.662415}
+        - {x: -16.452148, y: -19.337585}
+        - {x: 13.547852, y: -19.337585}
+        - {x: 17.547852, y: -13.337585}
+        - {x: 17.547852, y: 7.6624146}
+        - {x: 13.547852, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_21
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1070
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.999817, y: 20.662415}
+        - {x: -16.999817, y: 10.662415}
+        - {x: -16.999817, y: -19.337585}
+        - {x: 13.000183, y: -19.337585}
+        - {x: 18.000183, y: -12.337585}
+        - {x: 18.000183, y: 4.6624146}
+        - {x: 13.000183, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_22
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1070
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.385498, y: 20.662415}
+        - {x: -16.385498, y: -19.337585}
+        - {x: 11.614502, y: -19.337585}
+        - {x: 17.614502, y: -16.337585}
+        - {x: 17.614502, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_23
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1070
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.271118, y: 20.662415}
+        - {x: -16.271118, y: 3.6624146}
+        - {x: -16.271118, y: -18.337585}
+        - {x: -15.271118, y: -19.337585}
+        - {x: 13.728882, y: -19.337585}
+        - {x: 17.728882, y: -14.337585}
+        - {x: 17.728882, y: 3.6624146}
+        - {x: 13.728882, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_24
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1070
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.237793, y: 20.662415}
+        - {x: -16.237793, y: 9.662415}
+        - {x: -16.237793, y: -19.337585}
+        - {x: 12.762207, y: -19.337585}
+        - {x: 16.762207, y: -16.337585}
+        - {x: 16.762207, y: 4.6624146}
+        - {x: 12.762207, y: 20.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_25
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1070
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.795532, y: 20.662415}
+        - {x: -13.204468, y: 20.662415}
+        - {x: -16.204468, y: 17.662415}
+        - {x: -16.204468, y: -19.337585}
+        - {x: 9.795532, y: -19.337585}
+        - {x: 11.795532, y: -18.337585}
+        - {x: 17.795532, y: -13.337585}
+        - {x: 17.795532, y: 11.662415}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_26
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 1068
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.328857, y: 21.000427}
+        - {x: -12.671143, y: 21.000427}
+        - {x: -16.671143, y: 10.000427}
+        - {x: -16.671143, y: -19.999573}
+        - {x: 9.328857, y: -19.999573}
+        - {x: 11.328857, y: -18.999573}
+        - {x: 17.328857, y: -13.999573}
+        - {x: 17.328857, y: 8.000427}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_27
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 1068
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.71875, y: 21.000427}
+        - {x: -16.71875, y: 9.000427}
+        - {x: -16.71875, y: -18.999573}
+        - {x: -15.71875, y: -19.999573}
+        - {x: 8.28125, y: -19.999573}
+        - {x: 17.28125, y: -16.999573}
+        - {x: 17.28125, y: 17.000427}
+        - {x: 16.28125, y: 21.000427}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_28
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 1068
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.604492, y: -19.999573}
+        - {x: 10.395508, y: -19.999573}
+        - {x: 17.395508, y: -17.999573}
+        - {x: 17.395508, y: 9.000427}
+        - {x: 13.395508, y: 21.000427}
+        - {x: -13.604492, y: 21.000427}
+        - {x: -16.604492, y: 11.000427}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_29
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1068
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.1521, y: 21.000427}
+        - {x: -17.1521, y: 6.0004272}
+        - {x: -17.1521, y: -18.999573}
+        - {x: -15.1521, y: -19.999573}
+        - {x: 1.8479004, y: -19.999573}
+        - {x: 11.8479, y: -17.999573}
+        - {x: 17.8479, y: -11.999573}
+        - {x: 17.8479, y: 4.0004272}
+        - {x: 15.8479, y: 21.000427}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 818
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.618858, y: 20.252228}
+        - {x: -16.618858, y: 5.252228}
+        - {x: -16.618858, y: -19.747772}
+        - {x: 14.381142, y: -19.747772}
+        - {x: 18.381142, y: -16.747772}
+        - {x: 18.381142, y: 10.252228}
+        - {x: 15.381142, y: 20.252228}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 818
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.0855255, y: 20.252228}
+        - {x: -17.085526, y: 5.252228}
+        - {x: -17.085526, y: -18.747772}
+        - {x: -16.085526, y: -19.747772}
+        - {x: 13.9144745, y: -19.747772}
+        - {x: 17.914474, y: -14.747772}
+        - {x: 17.914474, y: 9.252228}
+        - {x: 15.9144745, y: 20.252228}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 818
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.552185, y: 20.252228}
+        - {x: -16.552185, y: 16.252228}
+        - {x: -16.552185, y: -19.747772}
+        - {x: 18.447815, y: -19.747772}
+        - {x: 18.447815, y: 6.252228}
+        - {x: 13.447815, y: 20.252228}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_33
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 818
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.018829, y: 20.252228}
+        - {x: -17.01883, y: 4.252228}
+        - {x: -17.01883, y: -19.747772}
+        - {x: 12.981171, y: -19.747772}
+        - {x: 17.98117, y: -14.747772}
+        - {x: 17.98117, y: 9.252228}
+        - {x: 15.981171, y: 20.252228}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_34
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 820
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.985474, y: 19.914215}
+        - {x: -16.985474, y: -19.085785}
+        - {x: 17.014526, y: -19.085785}
+        - {x: 17.014526, y: 4.914215}
+        - {x: 13.014526, y: 19.914215}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_35
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 820
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.952148, y: 19.914215}
+        - {x: -14.952148, y: 16.914215}
+        - {x: -16.952148, y: 0.9142151}
+        - {x: -16.952148, y: -18.085785}
+        - {x: -14.952148, y: -19.085785}
+        - {x: 13.047852, y: -19.085785}
+        - {x: 18.047852, y: -14.085785}
+        - {x: 18.047852, y: 7.914215}
+        - {x: 16.047852, y: 19.914215}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_36
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 820
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.918823, y: 19.914215}
+        - {x: -16.918823, y: 5.914215}
+        - {x: -16.918823, y: -17.085785}
+        - {x: -14.918823, y: -19.085785}
+        - {x: 15.081177, y: -19.085785}
+        - {x: 17.081177, y: -17.085785}
+        - {x: 17.081177, y: 8.914215}
+        - {x: 13.081177, y: 19.914215}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_37
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 820
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.385498, y: 19.914215}
+        - {x: -12.385498, y: 17.914215}
+        - {x: -16.385498, y: 5.914215}
+        - {x: -16.385498, y: -19.085785}
+        - {x: 17.614502, y: -19.085785}
+        - {x: 17.614502, y: 11.914215}
+        - {x: 15.614502, y: 19.914215}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_38
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 820
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.271118, y: 19.914215}
+        - {x: -13.271118, y: 16.914215}
+        - {x: -16.271118, y: -0.08578491}
+        - {x: -16.271118, y: -18.085785}
+        - {x: -15.271118, y: -19.085785}
+        - {x: 12.728882, y: -19.085785}
+        - {x: 17.728882, y: -14.085785}
+        - {x: 17.728882, y: 0.9142151}
+        - {x: 13.728882, y: 19.914215}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_39
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 820
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.318848, y: 19.914215}
+        - {x: -16.318848, y: 9.914215}
+        - {x: -16.318848, y: -19.085785}
+        - {x: 17.681152, y: -19.085785}
+        - {x: 17.681152, y: 11.914215}
+        - {x: 15.681152, y: 19.914215}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_40
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 818
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.7146, y: 20.252228}
+        - {x: -13.2854, y: 20.252228}
+        - {x: -14.2854, y: 18.252228}
+        - {x: -17.2854, y: 1.2522278}
+        - {x: -17.2854, y: -17.747772}
+        - {x: -14.2854, y: -19.747772}
+        - {x: 11.7146, y: -19.747772}
+        - {x: 17.7146, y: -13.747772}
+        - {x: 17.7146, y: 0.25222778}
+        - {x: 12.7146, y: 18.252228}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_41
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 818
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.752075, y: 20.252228}
+        - {x: -16.752075, y: 10.252228}
+        - {x: -16.752075, y: -19.747772}
+        - {x: 16.247925, y: -19.747772}
+        - {x: 18.247925, y: -15.747772}
+        - {x: 18.247925, y: 4.252228}
+        - {x: 15.247925, y: 20.252228}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_42
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 818
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.700195, y: 20.252228}
+        - {x: -13.299805, y: 20.252228}
+        - {x: -17.299805, y: 3.2522278}
+        - {x: -17.299805, y: -17.747772}
+        - {x: -14.299805, y: -19.747772}
+        - {x: 11.700195, y: -19.747772}
+        - {x: 13.700195, y: -18.747772}
+        - {x: 18.700195, y: -13.747772}
+        - {x: 18.700195, y: -1.7477722}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_43
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 818
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.2664795, y: 20.252228}
+        - {x: -17.26648, y: 5.252228}
+        - {x: -17.26648, y: -17.747772}
+        - {x: -15.2664795, y: -19.747772}
+        - {x: 13.7335205, y: -19.747772}
+        - {x: 17.73352, y: -13.747772}
+        - {x: 17.73352, y: 10.252228}
+        - {x: 14.7335205, y: 20.252228}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_44
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 818
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.1521, y: 20.252228}
+        - {x: -17.1521, y: -15.747772}
+        - {x: -14.1521, y: -19.747772}
+        - {x: 12.8479, y: -19.747772}
+        - {x: 17.8479, y: -12.747772}
+        - {x: 17.8479, y: 9.252228}
+        - {x: 14.8479, y: 20.252228}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 567
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.199852, y: -3.5769958}
+        - {x: -17.199852, y: -15.576996}
+        - {x: -14.199852, y: -19.576996}
+        - {x: 12.800148, y: -19.576996}
+        - {x: 17.800148, y: -15.576996}
+        - {x: 17.800148, y: 10.423004}
+        - {x: 15.800148, y: 20.423004}
+        - {x: -12.199852, y: 20.423004}
+        - {x: -13.199852, y: 18.423004}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_46
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 567
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.585526, y: 20.423004}
+        - {x: -16.585526, y: -14.576996}
+        - {x: -12.5855255, y: -19.576996}
+        - {x: 14.4144745, y: -19.576996}
+        - {x: 17.414474, y: -14.576996}
+        - {x: 17.414474, y: 9.423004}
+        - {x: 13.4144745, y: 20.423004}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_47
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 567
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.552185, y: 20.423004}
+        - {x: -13.552185, y: 18.423004}
+        - {x: -16.552185, y: -5.576996}
+        - {x: -16.552185, y: -14.576996}
+        - {x: -12.552185, y: -19.576996}
+        - {x: 14.447815, y: -19.576996}
+        - {x: 18.447815, y: -13.576996}
+        - {x: 18.447815, y: 16.423004}
+        - {x: 17.447815, y: 20.423004}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_48
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 567
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.481171, y: 20.423004}
+        - {x: -16.51883, y: 20.423004}
+        - {x: -16.51883, y: -15.576996}
+        - {x: -12.518829, y: -18.576996}
+        - {x: -8.518829, y: -19.576996}
+        - {x: 13.481171, y: -19.576996}
+        - {x: 17.48117, y: -12.576996}
+        - {x: 17.48117, y: 6.423004}
+        - {x: 14.481171, y: 17.423004}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_49
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 567
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.985474, y: 20.423004}
+        - {x: -15.985474, y: 17.423004}
+        - {x: -16.985474, y: 2.4230042}
+        - {x: -16.985474, y: -15.576996}
+        - {x: -12.985474, y: -19.576996}
+        - {x: 12.014526, y: -19.576996}
+        - {x: 17.014526, y: -13.576996}
+        - {x: 17.014526, y: 6.423004}
+        - {x: 16.014526, y: 20.423004}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_50
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 567
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.547852, y: 20.423004}
+        - {x: -16.452148, y: 20.423004}
+        - {x: -16.452148, y: -17.576996}
+        - {x: -11.452148, y: -19.576996}
+        - {x: 11.547852, y: -19.576996}
+        - {x: 15.547852, y: -16.576996}
+        - {x: 17.547852, y: -12.576996}
+        - {x: 17.547852, y: 7.423004}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_51
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 567
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.499817, y: 20.423004}
+        - {x: -15.499817, y: 19.423004}
+        - {x: -16.499817, y: 12.423004}
+        - {x: -16.499817, y: -13.576996}
+        - {x: -11.499817, y: -19.576996}
+        - {x: 17.500183, y: -19.576996}
+        - {x: 17.500183, y: 20.423004}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_52
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 569
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.385498, y: 20.084991}
+        - {x: -16.385498, y: 10.084991}
+        - {x: -16.385498, y: -17.915009}
+        - {x: -15.385498, y: -18.915009}
+        - {x: 15.614502, y: -18.915009}
+        - {x: 17.614502, y: -14.915009}
+        - {x: 17.614502, y: 11.084991}
+        - {x: 14.614502, y: 20.084991}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_53
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 569
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.933105, y: 20.084991}
+        - {x: -16.933105, y: 4.0849915}
+        - {x: -16.933105, y: -17.915009}
+        - {x: -15.933105, y: -18.915009}
+        - {x: 18.066895, y: -18.915009}
+        - {x: 18.066895, y: 20.084991}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_54
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 569
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.980835, y: 20.084991}
+        - {x: -15.980835, y: 19.084991}
+        - {x: -16.980835, y: 10.084991}
+        - {x: -16.980835, y: -13.915009}
+        - {x: -12.980835, y: -18.915009}
+        - {x: 15.019165, y: -18.915009}
+        - {x: 18.019165, y: -15.915009}
+        - {x: 18.019165, y: 12.084991}
+        - {x: 17.019165, y: 20.084991}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_55
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 569
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.2854, y: 20.084991}
+        - {x: -14.2854, y: 17.084991}
+        - {x: -16.2854, y: 5.0849915}
+        - {x: -16.2854, y: -16.915009}
+        - {x: -13.2854, y: -18.915009}
+        - {x: 12.7146, y: -18.915009}
+        - {x: 14.7146, y: -17.915009}
+        - {x: 16.7146, y: -13.915009}
+        - {x: 16.7146, y: 20.084991}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_56
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 569
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.252075, y: 20.084991}
+        - {x: -13.252075, y: 18.084991}
+        - {x: -16.252075, y: 5.0849915}
+        - {x: -16.252075, y: -15.915009}
+        - {x: -11.252075, y: -18.915009}
+        - {x: 15.747925, y: -18.915009}
+        - {x: 17.747925, y: -16.915009}
+        - {x: 17.747925, y: 12.084991}
+        - {x: 15.747925, y: 20.084991}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_57
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 569
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.71875, y: 20.084991}
+        - {x: -16.71875, y: 7.0849915}
+        - {x: -16.71875, y: -17.915009}
+        - {x: -15.71875, y: -18.915009}
+        - {x: 16.28125, y: -18.915009}
+        - {x: 17.28125, y: -16.915009}
+        - {x: 17.28125, y: 20.084991}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_58
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 569
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.2335205, y: 20.084991}
+        - {x: -12.7664795, y: 20.084991}
+        - {x: -14.7664795, y: 18.084991}
+        - {x: -16.76648, y: 9.084991}
+        - {x: -16.76648, y: -18.915009}
+        - {x: 14.2335205, y: -18.915009}
+        - {x: 17.23352, y: -15.915009}
+        - {x: 17.23352, y: 13.084991}
+        - {x: 15.2335205, y: 17.084991}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_59
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 569
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.6521, y: 20.084991}
+        - {x: -16.6521, y: 7.0849915}
+        - {x: -16.6521, y: -18.915009}
+        - {x: 17.3479, y: -18.915009}
+        - {x: 17.3479, y: 20.084991}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 318
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.699852, y: 20.255753}
+        - {x: -16.699852, y: -18.744247}
+        - {x: 14.300148, y: -18.744247}
+        - {x: 17.300148, y: -12.744247}
+        - {x: 17.300148, y: 13.255753}
+        - {x: 16.300148, y: 20.255753}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_61
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 318
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5855255, y: 20.255753}
+        - {x: -16.585526, y: 7.2557526}
+        - {x: -16.585526, y: -18.744247}
+        - {x: 14.4144745, y: -18.744247}
+        - {x: 17.414474, y: -11.744247}
+        - {x: 17.414474, y: 10.255753}
+        - {x: 16.414474, y: 20.255753}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 318
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.366821, y: 20.255753}
+        - {x: -13.633179, y: 20.255753}
+        - {x: -16.633179, y: 19.255753}
+        - {x: -16.633179, y: -17.744247}
+        - {x: -15.633179, y: -18.744247}
+        - {x: 13.366821, y: -18.744247}
+        - {x: 17.366821, y: -13.744247}
+        - {x: 17.366821, y: -0.74424744}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_63
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 318
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.180817, y: -18.744247}
+        - {x: 13.819183, y: -18.744247}
+        - {x: 17.819183, y: -16.744247}
+        - {x: 17.819183, y: 14.255753}
+        - {x: 16.819183, y: 20.255753}
+        - {x: -14.180817, y: 20.255753}
+        - {x: -17.180817, y: 13.255753}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_64
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 318
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.066467, y: 20.255753}
+        - {x: -17.066467, y: 6.2557526}
+        - {x: -17.066467, y: -18.744247}
+        - {x: 14.933533, y: -18.744247}
+        - {x: 17.933533, y: -17.744247}
+        - {x: 17.933533, y: 12.255753}
+        - {x: 15.933533, y: 20.255753}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_65
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 318
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.114136, y: 20.255753}
+        - {x: -13.114136, y: 17.255753}
+        - {x: -17.114136, y: -4.7442474}
+        - {x: -17.114136, y: -13.744247}
+        - {x: -12.114136, y: -18.744247}
+        - {x: 14.885864, y: -18.744247}
+        - {x: 17.885864, y: -16.744247}
+        - {x: 17.885864, y: 13.255753}
+        - {x: 15.885864, y: 20.255753}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_66
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 318
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.999817, y: 20.255753}
+        - {x: -16.999817, y: 2.2557526}
+        - {x: -16.999817, y: -17.744247}
+        - {x: -14.999817, y: -18.744247}
+        - {x: 14.000183, y: -18.744247}
+        - {x: 18.000183, y: -16.744247}
+        - {x: 18.000183, y: 13.255753}
+        - {x: 17.000183, y: 20.255753}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_67
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 318
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.547485, y: 20.255753}
+        - {x: -12.547485, y: 17.255753}
+        - {x: -17.547485, y: -5.7442474}
+        - {x: -17.547485, y: -14.744247}
+        - {x: -12.547485, y: -18.744247}
+        - {x: 13.452515, y: -18.744247}
+        - {x: 18.452515, y: -13.744247}
+        - {x: 18.452515, y: 9.255753}
+        - {x: 16.452515, y: 20.255753}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_68
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 317
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.566895, y: 19.674759}
+        - {x: -13.433105, y: 19.674759}
+        - {x: -17.433105, y: 3.674759}
+        - {x: -17.433105, y: -18.325241}
+        - {x: -15.433105, y: -19.325241}
+        - {x: 11.566895, y: -19.325241}
+        - {x: 14.566895, y: -18.325241}
+        - {x: 18.566895, y: -12.325241}
+        - {x: 18.566895, y: 5.674759}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_69
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 318
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.318848, y: 20.255753}
+        - {x: -14.318848, y: 18.255753}
+        - {x: -16.318848, y: 5.2557526}
+        - {x: -16.318848, y: -17.744247}
+        - {x: -14.318848, y: -18.744247}
+        - {x: 14.681152, y: -18.744247}
+        - {x: 17.681152, y: -14.744247}
+        - {x: 17.681152, y: 8.255753}
+        - {x: 15.681152, y: 20.255753}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_70
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 316
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.204468, y: 20.593765}
+        - {x: -16.204468, y: 9.593765}
+        - {x: -16.204468, y: -19.406235}
+        - {x: 11.795532, y: -19.406235}
+        - {x: 17.795532, y: -17.406235}
+        - {x: 17.795532, y: 8.593765}
+        - {x: 15.795532, y: 20.593765}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_71
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 316
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.247925, y: 20.593765}
+        - {x: -12.752075, y: 20.593765}
+        - {x: -16.752075, y: 7.5937653}
+        - {x: -16.752075, y: -18.406235}
+        - {x: -14.752075, y: -19.406235}
+        - {x: 13.247925, y: -19.406235}
+        - {x: 18.247925, y: -13.406235}
+        - {x: 18.247925, y: 11.593765}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_72
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 316
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.71875, y: 20.593765}
+        - {x: -16.71875, y: 15.593765}
+        - {x: -16.71875, y: -19.406235}
+        - {x: 12.28125, y: -19.406235}
+        - {x: 17.28125, y: -12.406235}
+        - {x: 17.28125, y: 7.5937653}
+        - {x: 13.28125, y: 20.593765}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_73
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 316
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.604492, y: 20.593765}
+        - {x: -14.604492, y: 18.593765}
+        - {x: -16.604492, y: 1.5937653}
+        - {x: -16.604492, y: -16.406235}
+        - {x: -14.604492, y: -19.406235}
+        - {x: 11.395508, y: -19.406235}
+        - {x: 17.395508, y: -13.406235}
+        - {x: 17.395508, y: 2.5937653}
+        - {x: 14.395508, y: 20.593765}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_74
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 316
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.6521, y: 20.593765}
+        - {x: -14.6521, y: 18.593765}
+        - {x: -16.6521, y: 6.5937653}
+        - {x: -16.6521, y: -18.406235}
+        - {x: -15.6521, y: -19.406235}
+        - {x: 12.3479, y: -19.406235}
+        - {x: 17.3479, y: -13.406235}
+        - {x: 17.3479, y: 3.5937653}
+        - {x: 15.3479, y: 20.593765}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_75
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 65
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.462128, y: 20.764542}
+        - {x: -15.537872, y: 20.764542}
+        - {x: -16.537872, y: 10.764542}
+        - {x: -16.537872, y: -16.235458}
+        - {x: -13.537872, y: -19.235458}
+        - {x: 6.4621277, y: -19.235458}
+        - {x: 11.462128, y: -18.235458}
+        - {x: 17.462128, y: -13.235458}
+        - {x: 17.462128, y: 2.7645416}
+        - {x: 14.462128, y: 19.764542}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_76
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 65
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.0855255, y: 20.764542}
+        - {x: -17.085526, y: 18.764542}
+        - {x: -17.085526, y: -19.235458}
+        - {x: 10.9144745, y: -19.235458}
+        - {x: 17.914474, y: -12.235458}
+        - {x: 17.914474, y: 14.764542}
+        - {x: 16.914474, y: 20.764542}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_77
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 65
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.528809, y: 20.764542}
+        - {x: -12.471191, y: 20.764542}
+        - {x: -13.471191, y: 19.764542}
+        - {x: -14.471191, y: 16.764542}
+        - {x: -16.471191, y: 5.7645416}
+        - {x: -16.471191, y: -16.235458}
+        - {x: -14.471191, y: -19.235458}
+        - {x: 11.528809, y: -19.235458}
+        - {x: 17.528809, y: -13.235458}
+        - {x: 17.528809, y: -7.2354584}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_78
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 66
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.018829, y: 19.845535}
+        - {x: -15.018829, y: 16.845535}
+        - {x: -17.01883, y: -0.15446472}
+        - {x: -17.01883, y: -17.154465}
+        - {x: -15.018829, y: -19.154465}
+        - {x: 11.981171, y: -19.154465}
+        - {x: 17.98117, y: -12.154465}
+        - {x: 17.98117, y: 0.8455353}
+        - {x: 16.98117, y: 19.845535}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_79
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 66
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.985474, y: 19.845535}
+        - {x: -14.985474, y: 16.845535}
+        - {x: -16.985474, y: -0.15446472}
+        - {x: -16.985474, y: -18.154465}
+        - {x: -15.985474, y: -19.154465}
+        - {x: 15.014526, y: -19.154465}
+        - {x: 17.014526, y: -15.154465}
+        - {x: 17.014526, y: 15.845535}
+        - {x: 16.014526, y: 19.845535}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_80
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 66
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.952148, y: 19.845535}
+        - {x: -15.952148, y: 17.845535}
+        - {x: -16.952148, y: 4.8455353}
+        - {x: -16.952148, y: -17.154465}
+        - {x: -14.952148, y: -19.154465}
+        - {x: 12.047852, y: -19.154465}
+        - {x: 18.047852, y: -14.154465}
+        - {x: 18.047852, y: 9.845535}
+        - {x: 17.047852, y: 19.845535}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_81
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 66
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.918823, y: 19.845535}
+        - {x: -15.918823, y: 17.845535}
+        - {x: -16.918823, y: 4.8455353}
+        - {x: -16.918823, y: -17.154465}
+        - {x: -14.918823, y: -19.154465}
+        - {x: 12.081177, y: -19.154465}
+        - {x: 17.081177, y: -15.154465}
+        - {x: 17.081177, y: 2.8455353}
+        - {x: 13.081177, y: 19.845535}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_82
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 66
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.885498, y: 19.845535}
+        - {x: -16.885498, y: -16.154465}
+        - {x: -13.885498, y: -19.154465}
+        - {x: 12.114502, y: -19.154465}
+        - {x: 18.114502, y: -14.154465}
+        - {x: 18.114502, y: 0.8455353}
+        - {x: 14.114502, y: 19.845535}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_83
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 66
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.271118, y: 19.845535}
+        - {x: -16.271118, y: 9.845535}
+        - {x: -16.271118, y: -18.154465}
+        - {x: -13.271118, y: -19.154465}
+        - {x: 13.728882, y: -19.154465}
+        - {x: 17.728882, y: -17.154465}
+        - {x: 17.728882, y: 11.845535}
+        - {x: 16.728882, y: 19.845535}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_84
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 66
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.318848, y: 19.845535}
+        - {x: -16.318848, y: 4.8455353}
+        - {x: -16.318848, y: -18.154465}
+        - {x: -15.318848, y: -19.154465}
+        - {x: 13.681152, y: -19.154465}
+        - {x: 17.681152, y: -17.154465}
+        - {x: 17.681152, y: 10.845535}
+        - {x: 15.681152, y: 19.845535}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_85
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 66
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.795532, y: 19.845535}
+        - {x: -13.204468, y: 19.845535}
+        - {x: -16.204468, y: 8.845535}
+        - {x: -16.204468, y: -19.154465}
+        - {x: 13.795532, y: -19.154465}
+        - {x: 17.795532, y: -14.154465}
+        - {x: 17.795532, y: 8.845535}
+    - name: npc_squid_variant_squidRed_x1_talk_png_1354833327_86
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 66
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.247925, y: 4.8455353}
+        - {x: 16.247925, y: 19.845535}
+        - {x: -12.752075, y: 19.845535}
+        - {x: -12.752075, y: 18.845535}
+        - {x: -16.752075, y: -3.1544647}
+        - {x: -16.752075, y: -17.154465}
+        - {x: -13.752075, y: -19.154465}
+        - {x: 12.247925, y: -19.154465}
+        - {x: 13.247925, y: -17.154465}
+        - {x: 18.247925, y: -14.154465}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

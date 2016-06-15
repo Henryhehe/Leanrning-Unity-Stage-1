@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 9114831651fdd415d9c5502602180041
+timeCreated: 1465327460
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Squid Idle_0
+    21300002: Squid Idle_1
+    21300004: Squid Idle_2
+    21300006: Squid Idle_3
+    21300008: Squid Idle_4
+    21300010: Squid Idle_5
+    21300012: Squid Idle_6
+    21300014: Squid Idle_7
+    21300016: Squid Idle_8
+    21300018: Squid Idle_9
+    21300020: Squid Idle_10
+    21300022: Squid Idle_11
+    21300024: Squid Idle_12
+    21300026: Squid Idle_13
+    21300028: Squid Idle_14
+    21300030: Squid Idle_15
+    21300032: Squid Idle_16
+    21300034: Squid Idle_17
+    21300036: Squid Idle_18
+    21300038: Squid Idle_19
+    21300040: Squid Idle_20
+    21300042: Squid Idle_21
+    21300044: Squid Idle_22
+    21300046: Squid Idle_23
+    21300048: Squid Idle_24
+    21300050: Squid Idle_25
+    21300052: Squid Idle_26
+    21300054: Squid Idle_27
+    21300056: Squid Idle_28
+    21300058: Squid Idle_29
+    21300060: Squid Idle_30
+    21300062: Squid Idle_31
+    21300064: Squid Idle_32
+    21300066: Squid Idle_33
+    21300068: Squid Idle_34
+    21300070: Squid Idle_35
+    21300072: Squid Idle_36
+    21300074: Squid Idle_37
+    21300076: Squid Idle_38
+    21300078: Squid Idle_39
+    21300080: Squid Idle_40
+    21300082: Squid Idle_41
+    21300084: Squid Idle_42
+    21300086: Squid Idle_43
+    21300088: Squid Idle_44
+    21300090: Squid Idle_45
+    21300092: Squid Idle_46
+    21300094: Squid Idle_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 177.7777
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Squid Idle_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2827
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.065956, y: 24.258423}
+        - {x: -19.065956, y: 7.258423}
+        - {x: -19.065956, y: -17.741577}
+        - {x: -16.065956, y: -21.741577}
+        - {x: -3.065956, y: -22.741577}
+        - {x: 13.934044, y: -22.741577}
+        - {x: 20.934044, y: -15.741577}
+        - {x: 20.934044, y: -0.74157715}
+        - {x: 15.934044, y: 24.258423}
+    - name: Squid Idle_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2827
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.315964, y: 24.258423}
+        - {x: -19.315964, y: 11.258423}
+        - {x: -19.315964, y: -20.741577}
+        - {x: -17.315964, y: -22.741577}
+        - {x: 14.684036, y: -22.741577}
+        - {x: 20.684036, y: -16.741577}
+        - {x: 20.684036, y: 10.258423}
+        - {x: 18.684036, y: 24.258423}
+    - name: Squid Idle_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2827
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.065979, y: 24.258423}
+        - {x: -19.065979, y: 4.258423}
+        - {x: -19.065979, y: -15.741577}
+        - {x: -14.065979, y: -21.741577}
+        - {x: -8.065979, y: -22.741577}
+        - {x: 19.934021, y: -22.741577}
+        - {x: 19.934021, y: 24.258423}
+    - name: Squid Idle_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2827
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.315979, y: 24.258423}
+        - {x: -19.315979, y: -22.741577}
+        - {x: 12.684021, y: -22.741577}
+        - {x: 19.684021, y: -14.741577}
+        - {x: 19.684021, y: 4.258423}
+        - {x: 16.684021, y: 24.258423}
+    - name: Squid Idle_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2577
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.254257, y: 23.311646}
+        - {x: -14.745743, y: 23.311646}
+        - {x: -18.745743, y: 7.3116455}
+        - {x: -19.745743, y: 4.3116455}
+        - {x: -19.745743, y: -17.688354}
+        - {x: -13.745743, y: -21.688354}
+        - {x: 15.254257, y: -21.688354}
+        - {x: 18.254257, y: -20.688354}
+        - {x: 20.254257, y: -14.6883545}
+        - {x: 20.254257, y: 4.3116455}
+    - name: Squid Idle_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2577
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.815964, y: 23.311646}
+        - {x: -18.815964, y: 4.3116455}
+        - {x: -18.815964, y: -17.688354}
+        - {x: -11.815964, y: -21.688354}
+        - {x: 14.184036, y: -21.688354}
+        - {x: 20.184036, y: -14.6883545}
+        - {x: 20.184036, y: 8.3116455}
+        - {x: 19.184036, y: 23.311646}
+    - name: Squid Idle_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2577
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.065979, y: 23.311646}
+        - {x: -19.065979, y: -21.688354}
+        - {x: 13.934021, y: -21.688354}
+        - {x: 19.934021, y: -14.6883545}
+        - {x: 19.934021, y: 8.3116455}
+        - {x: 18.934021, y: 23.311646}
+    - name: Squid Idle_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2577
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.684021, y: 23.311646}
+        - {x: -12.315979, y: 23.311646}
+        - {x: -15.315979, y: 20.311646}
+        - {x: -19.315979, y: 6.3116455}
+        - {x: -19.315979, y: -18.688354}
+        - {x: -13.315979, y: -21.688354}
+        - {x: 13.684021, y: -21.688354}
+        - {x: 19.684021, y: -18.688354}
+        - {x: 19.684021, y: 18.311646}
+    - name: Squid Idle_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2326
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.745743, y: -22.314941}
+        - {x: 16.254257, y: -22.314941}
+        - {x: 20.254257, y: -20.314941}
+        - {x: 20.254257, y: 14.685059}
+        - {x: 18.254257, y: 22.685059}
+        - {x: -13.745743, y: 22.685059}
+        - {x: -19.745743, y: 2.6850586}
+    - name: Squid Idle_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2326
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.815964, y: -22.314941}
+        - {x: 15.184036, y: -22.314941}
+        - {x: 20.184036, y: -19.314941}
+        - {x: 20.184036, y: 14.685059}
+        - {x: 19.184036, y: 22.685059}
+        - {x: -13.815964, y: 22.685059}
+        - {x: -18.815964, y: 7.6850586}
+    - name: Squid Idle_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2326
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.065979, y: 22.685059}
+        - {x: -19.065979, y: -22.314941}
+        - {x: 19.934021, y: -22.314941}
+        - {x: 19.934021, y: 22.685059}
+    - name: Squid Idle_11
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2326
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.315979, y: 22.685059}
+        - {x: -15.315979, y: 19.685059}
+        - {x: -19.315979, y: -4.3149414}
+        - {x: -19.315979, y: -18.314941}
+        - {x: -15.315979, y: -22.314941}
+        - {x: 16.684021, y: -22.314941}
+        - {x: 19.684021, y: -21.314941}
+        - {x: 19.684021, y: 10.685059}
+        - {x: 15.684021, y: 22.685059}
+    - name: Squid Idle_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2074
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.745743, y: 24.378662}
+        - {x: -17.745743, y: 23.378662}
+        - {x: -19.745743, y: 8.378662}
+        - {x: -19.745743, y: -16.621338}
+        - {x: -13.745743, y: -22.621338}
+        - {x: 13.254257, y: -22.621338}
+        - {x: 20.254257, y: -18.621338}
+        - {x: 20.254257, y: 8.378662}
+        - {x: 15.254257, y: 24.378662}
+    - name: Squid Idle_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2074
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.815964, y: 24.378662}
+        - {x: -14.815964, y: 23.378662}
+        - {x: -18.815964, y: 2.378662}
+        - {x: -18.815964, y: -17.621338}
+        - {x: -12.815964, y: -22.621338}
+        - {x: 12.184036, y: -22.621338}
+        - {x: 20.184036, y: -18.621338}
+        - {x: 20.184036, y: 21.378662}
+        - {x: 19.184036, y: 24.378662}
+    - name: Squid Idle_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2074
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.065979, y: 24.378662}
+        - {x: -19.065979, y: 6.378662}
+        - {x: -19.065979, y: -20.621338}
+        - {x: -16.065979, y: -22.621338}
+        - {x: 7.934021, y: -22.621338}
+        - {x: 13.934021, y: -20.621338}
+        - {x: 19.934021, y: -14.621338}
+        - {x: 19.934021, y: 24.378662}
+    - name: Squid Idle_15
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2074
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.315979, y: 24.378662}
+        - {x: -15.315979, y: 21.378662}
+        - {x: -19.315979, y: -4.621338}
+        - {x: -19.315979, y: -17.621338}
+        - {x: -16.315979, y: -22.621338}
+        - {x: 14.684021, y: -22.621338}
+        - {x: 19.684021, y: -15.621338}
+        - {x: 19.684021, y: 5.378662}
+        - {x: 17.684021, y: 24.378662}
+    - name: Squid Idle_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1823
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.065956, y: 23.252075}
+        - {x: -19.065956, y: 8.252075}
+        - {x: -19.065956, y: -22.747925}
+        - {x: 14.934044, y: -22.747925}
+        - {x: 20.934044, y: -20.747925}
+        - {x: 20.934044, y: 23.252075}
+    - name: Squid Idle_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1823
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.815964, y: 23.252075}
+        - {x: -17.815964, y: 21.252075}
+        - {x: -18.815964, y: 9.252075}
+        - {x: -18.815964, y: -22.747925}
+        - {x: 17.184036, y: -22.747925}
+        - {x: 20.184036, y: -16.747925}
+        - {x: 20.184036, y: 6.252075}
+        - {x: 16.184036, y: 23.252075}
+    - name: Squid Idle_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1823
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.565979, y: 23.252075}
+        - {x: -19.565979, y: -22.747925}
+        - {x: 14.434021, y: -22.747925}
+        - {x: 20.434021, y: -20.747925}
+        - {x: 20.434021, y: 23.252075}
+    - name: Squid Idle_19
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1823
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.815979, y: 23.252075}
+        - {x: -19.815979, y: 3.2520752}
+        - {x: -19.815979, y: -20.747925}
+        - {x: -16.815979, y: -22.747925}
+        - {x: 15.184021, y: -22.747925}
+        - {x: 20.184021, y: -18.747925}
+        - {x: 20.184021, y: 5.252075}
+        - {x: 15.184021, y: 23.252075}
+    - name: Squid Idle_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1571
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.254257, y: 24.445679}
+        - {x: -13.745743, y: 24.445679}
+        - {x: -19.745743, y: 7.4456787}
+        - {x: -19.745743, y: -20.554321}
+        - {x: -15.745743, y: -22.554321}
+        - {x: 15.254257, y: -22.554321}
+        - {x: 20.254257, y: -13.554321}
+        - {x: 20.254257, y: 12.445679}
+    - name: Squid Idle_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1572
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.315964, y: 23.625488}
+        - {x: -19.315964, y: 11.625488}
+        - {x: -19.315964, y: -21.374512}
+        - {x: -16.315964, y: -22.374512}
+        - {x: 15.684036, y: -22.374512}
+        - {x: 20.684036, y: -20.374512}
+        - {x: 20.684036, y: 8.625488}
+        - {x: 17.684036, y: 23.625488}
+    - name: Squid Idle_22
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1571
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.565979, y: 24.445679}
+        - {x: -19.565979, y: 5.4456787}
+        - {x: -19.565979, y: -16.554321}
+        - {x: -14.565979, y: -22.554321}
+        - {x: 16.434021, y: -22.554321}
+        - {x: 20.434021, y: -14.554321}
+        - {x: 20.434021, y: 13.445679}
+        - {x: 18.434021, y: 24.445679}
+    - name: Squid Idle_23
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1571
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.815979, y: 24.445679}
+        - {x: -19.815979, y: 9.445679}
+        - {x: -19.815979, y: -22.554321}
+        - {x: 16.184021, y: -22.554321}
+        - {x: 20.184021, y: -14.554321}
+        - {x: 20.184021, y: 8.445679}
+        - {x: 17.184021, y: 24.445679}
+    - name: Squid Idle_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1321
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.88617, y: 24.498901}
+        - {x: -18.88617, y: 18.498901}
+        - {x: -18.88617, y: -22.501099}
+        - {x: 18.11383, y: -22.501099}
+        - {x: 20.11383, y: -20.501099}
+        - {x: 20.11383, y: 7.4989014}
+        - {x: 15.113831, y: 24.498901}
+    - name: Squid Idle_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1321
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.13617, y: 24.498901}
+        - {x: -19.13617, y: -22.501099}
+        - {x: 10.863831, y: -22.501099}
+        - {x: 19.86383, y: -16.501099}
+        - {x: 19.86383, y: 13.498901}
+        - {x: 17.86383, y: 24.498901}
+    - name: Squid Idle_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1320
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.565979, y: 23.819153}
+        - {x: -19.565979, y: 3.8191528}
+        - {x: -19.565979, y: -22.180847}
+        - {x: -18.565979, y: -23.180847}
+        - {x: 18.434021, y: -23.180847}
+        - {x: 20.434021, y: -18.180847}
+        - {x: 20.434021, y: 15.819153}
+        - {x: 19.434021, y: 23.819153}
+    - name: Squid Idle_27
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1320
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.815979, y: 23.819153}
+        - {x: -19.815979, y: 10.819153}
+        - {x: -19.815979, y: -23.180847}
+        - {x: 8.184021, y: -23.180847}
+        - {x: 20.184021, y: -17.180847}
+        - {x: 20.184021, y: -1.1808472}
+        - {x: 14.184021, y: 23.819153}
+    - name: Squid Idle_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1068
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.386169, y: 23.512756}
+        - {x: -19.38617, y: 7.5127563}
+        - {x: -19.38617, y: -23.487244}
+        - {x: 14.613831, y: -23.487244}
+        - {x: 20.61383, y: -16.487244}
+        - {x: 20.61383, y: -0.48724365}
+        - {x: 14.613831, y: 23.512756}
+    - name: Squid Idle_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1069
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.363831, y: 24.192566}
+        - {x: -16.63617, y: 24.192566}
+        - {x: -19.63617, y: 11.192566}
+        - {x: -19.63617, y: -20.807434}
+        - {x: -17.63617, y: -22.807434}
+        - {x: 13.363831, y: -22.807434}
+        - {x: 20.36383, y: -15.807434}
+        - {x: 20.36383, y: 0.19256592}
+        - {x: 14.363831, y: 22.192566}
+    - name: Squid Idle_30
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1070
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.434021, y: 23.372314}
+        - {x: -13.565979, y: 23.372314}
+        - {x: -17.565979, y: 20.372314}
+        - {x: -19.565979, y: 4.3723145}
+        - {x: -19.565979, y: -22.627686}
+        - {x: 13.434021, y: -22.627686}
+        - {x: 20.434021, y: -18.627686}
+        - {x: 20.434021, y: 3.3723145}
+    - name: Squid Idle_31
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1070
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.815979, y: -0.62768555}
+        - {x: -19.815979, y: -22.627686}
+        - {x: 13.184021, y: -22.627686}
+        - {x: 20.184021, y: -20.627686}
+        - {x: 20.184021, y: -0.62768555}
+        - {x: 14.184021, y: 23.372314}
+        - {x: -13.815979, y: 23.372314}
+        - {x: -16.815979, y: 20.372314}
+    - name: Squid Idle_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 818
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.434044, y: -9.934082}
+        - {x: 15.434044, y: 22.065918}
+        - {x: 14.434044, y: 23.065918}
+        - {x: -15.565956, y: 23.065918}
+        - {x: -19.565956, y: 5.065918}
+        - {x: -19.565956, y: -21.934082}
+        - {x: -16.565956, y: -22.934082}
+        - {x: 10.434044, y: -22.934082}
+        - {x: 14.434044, y: -21.934082}
+        - {x: 19.434044, y: -15.934082}
+        - {x: 21.434044, y: -13.934082}
+    - name: Squid Idle_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 818
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.815964, y: 23.065918}
+        - {x: -19.815964, y: -22.934082}
+        - {x: 14.184036, y: -22.934082}
+        - {x: 21.184036, y: -15.934082}
+        - {x: 21.184036, y: 4.065918}
+        - {x: 18.184036, y: 23.065918}
+    - name: Squid Idle_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 820
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.565979, y: 22.925537}
+        - {x: -19.565979, y: -22.074463}
+        - {x: 15.434021, y: -22.074463}
+        - {x: 20.434021, y: -19.074463}
+        - {x: 20.434021, y: 6.925537}
+        - {x: 16.434021, y: 22.925537}
+    - name: Squid Idle_35
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 820
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.815979, y: 22.925537}
+        - {x: -19.815979, y: 10.925537}
+        - {x: -19.815979, y: -22.074463}
+        - {x: 17.184021, y: -22.074463}
+        - {x: 20.184021, y: -19.074463}
+        - {x: 20.184021, y: -0.07446289}
+        - {x: 14.184021, y: 22.925537}
+    - name: Squid Idle_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 568
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.065956, y: 23.11914}
+        - {x: -15.065956, y: 21.11914}
+        - {x: -19.065956, y: -8.880859}
+        - {x: -19.065956, y: -22.88086}
+        - {x: 17.934044, y: -22.88086}
+        - {x: 20.934044, y: -20.88086}
+        - {x: 20.934044, y: 17.11914}
+        - {x: 18.934044, y: 23.11914}
+    - name: Squid Idle_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 568
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.315964, y: 23.11914}
+        - {x: -14.315964, y: 21.11914}
+        - {x: -15.315964, y: 18.11914}
+        - {x: -19.315964, y: -1.8808594}
+        - {x: -19.315964, y: -22.88086}
+        - {x: 17.684036, y: -22.88086}
+        - {x: 20.684036, y: -16.88086}
+        - {x: 20.684036, y: 9.119141}
+        - {x: 18.684036, y: 23.11914}
+    - name: Squid Idle_38
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 568
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.434021, y: 23.11914}
+        - {x: -15.565979, y: 23.11914}
+        - {x: -19.565979, y: 9.119141}
+        - {x: -19.565979, y: -22.88086}
+        - {x: 15.434021, y: -22.88086}
+        - {x: 20.434021, y: -19.88086}
+        - {x: 20.434021, y: 16.11914}
+    - name: Squid Idle_39
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 568
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.815979, y: 23.11914}
+        - {x: -19.815979, y: 14.119141}
+        - {x: -19.815979, y: -22.88086}
+        - {x: 14.184021, y: -22.88086}
+        - {x: 20.184021, y: -17.88086}
+        - {x: 20.184021, y: -0.8808594}
+        - {x: 14.184021, y: 23.11914}
+    - name: Squid Idle_40
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 317
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.88617, y: -22.507446}
+        - {x: 20.11383, y: -22.507446}
+        - {x: 20.11383, y: 5.4925537}
+        - {x: 15.113831, y: 23.492554}
+        - {x: -14.886169, y: 23.492554}
+        - {x: -18.88617, y: 4.4925537}
+    - name: Squid Idle_41
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 317
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.136169, y: 23.492554}
+        - {x: -16.13617, y: 19.492554}
+        - {x: -19.13617, y: 3.4925537}
+        - {x: -19.13617, y: -18.507446}
+        - {x: -16.13617, y: -22.507446}
+        - {x: 12.863831, y: -22.507446}
+        - {x: 19.86383, y: -16.507446}
+        - {x: 19.86383, y: -0.5074463}
+        - {x: 14.863831, y: 23.492554}
+    - name: Squid Idle_42
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 317
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.565979, y: 23.492554}
+        - {x: -19.565979, y: 10.492554}
+        - {x: -19.565979, y: -22.507446}
+        - {x: 13.434021, y: -22.507446}
+        - {x: 20.434021, y: -14.507446}
+        - {x: 20.434021, y: 8.492554}
+        - {x: 18.434021, y: 23.492554}
+    - name: Squid Idle_43
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 317
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.815979, y: 23.492554}
+        - {x: -19.815979, y: 5.4925537}
+        - {x: -19.815979, y: -21.507446}
+        - {x: -16.815979, y: -22.507446}
+        - {x: 13.184021, y: -22.507446}
+        - {x: 20.184021, y: -16.507446}
+        - {x: 20.184021, y: -0.5074463}
+        - {x: 14.184021, y: 23.492554}
+    - name: Squid Idle_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 65
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.065956, y: 23.186169}
+        - {x: -14.065956, y: 20.186169}
+        - {x: -15.065956, y: 6.1861687}
+        - {x: -19.065956, y: -8.813831}
+        - {x: -19.065956, y: -18.813831}
+        - {x: -14.065956, y: -22.813831}
+        - {x: 13.934044, y: -22.813831}
+        - {x: 20.934044, y: -18.813831}
+        - {x: 20.934044, y: 23.186169}
+    - name: Squid Idle_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 65
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.315964, y: 23.186169}
+        - {x: -19.315964, y: 1.1861687}
+        - {x: -19.315964, y: -21.813831}
+        - {x: -18.315964, y: -22.813831}
+        - {x: 20.684036, y: -22.813831}
+        - {x: 20.684036, y: 9.186169}
+        - {x: 18.684036, y: 23.186169}
+    - name: Squid Idle_46
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 65
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.565979, y: 23.186169}
+        - {x: -19.565979, y: 13.186169}
+        - {x: -19.565979, y: -22.813831}
+        - {x: 13.434021, y: -22.813831}
+        - {x: 20.434021, y: -16.813831}
+        - {x: 20.434021, y: 2.1861687}
+        - {x: 15.434021, y: 23.186169}
+    - name: Squid Idle_47
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 65
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.815979, y: -22.813831}
+        - {x: 20.184021, y: -22.813831}
+        - {x: 20.184021, y: 13.186169}
+        - {x: 19.184021, y: 23.186169}
+        - {x: -16.815979, y: 23.186169}
+        - {x: -19.815979, y: 13.186169}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

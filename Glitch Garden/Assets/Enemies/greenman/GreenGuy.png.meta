@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: e408ddf67583a4db98e6f67cddbe6345
+timeCreated: 1465073501
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head_1
+    21300002: head_2
+    21300004: head_3
+    21300006: LeftHande
+    21300008: body
+    21300010: RightHande
+    21300012: LeftLeg
+    21300014: RightLeg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 177.77
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 317
+        width: 136
+        height: 163
+      alignment: 9
+      pivot: {x: 0.61279976, y: 0.029423812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.340767, y: 158.20392}
+        - {x: -83.34077, y: 127.20392}
+        - {x: -83.34077, y: 51.20392}
+        - {x: -53.340767, y: -4.7960815}
+        - {x: 43.659233, y: -4.7960815}
+        - {x: 52.659233, y: 17.203918}
+        - {x: 52.659233, y: 129.20392}
+        - {x: 23.659233, y: 158.20392}
+    - name: head_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 316
+        width: 136
+        height: 163
+      alignment: 9
+      pivot: {x: 0.6047426, y: 0.036146294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.244995, y: 157.10815}
+        - {x: -82.244995, y: 114.108154}
+        - {x: -82.244995, y: 70.108154}
+        - {x: -40.244995, y: -5.8918457}
+        - {x: 29.755005, y: -5.8918457}
+        - {x: 53.755005, y: 23.108154}
+        - {x: 53.755005, y: 109.108154}
+        - {x: 10.755005, y: 157.10815}
+    - name: head_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 326
+        width: 136
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5886284, y: 0.029423812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.946533, y: 158.20392}
+        - {x: -37.053467, y: 158.20392}
+        - {x: -80.05347, y: 121.20392}
+        - {x: -80.05347, y: 54.20392}
+        - {x: -42.053467, y: -4.7960815}
+        - {x: 36.946533, y: -4.7960815}
+        - {x: 55.946533, y: 9.203918}
+        - {x: 55.946533, y: 103.20392}
+        - {x: 42.946533, y: 148.20392}
+    - name: LeftHande
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 159
+        width: 41
+        height: 107
+      alignment: 9
+      pivot: {x: 0.9008912, y: 0.96083796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.936539, y: 4.190338}
+        - {x: -26.936539, y: -14.809662}
+        - {x: -36.93654, y: -61.80966}
+        - {x: -36.93654, y: -102.80966}
+        - {x: -7.9365387, y: -102.80966}
+        - {x: 4.0634613, y: -58.80966}
+        - {x: 4.0634613, y: 4.190338}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 164
+        width: 59
+        height: 134
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.0257114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.49997, y: 130.55467}
+        - {x: -29.49997, y: 129.55467}
+        - {x: -29.49997, y: 4.5546722}
+        - {x: -20.49997, y: -3.4453278}
+        - {x: 29.50003, y: -3.4453278}
+        - {x: 29.50003, y: 130.55467}
+    - name: RightHande
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 173
+        width: 51
+        height: 104
+      alignment: 9
+      pivot: {x: 0.07028557, y: 0.95305896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.415436, y: 4.8818665}
+        - {x: -3.5845642, y: 4.8818665}
+        - {x: -3.5845642, y: -32.118134}
+        - {x: 23.415436, y: -99.11813}
+        - {x: 47.415436, y: -99.11813}
+        - {x: 47.415436, y: -71.11813}
+        - {x: 16.415436, y: -5.1181335}
+    - name: LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 30
+        width: 58
+        height: 111
+      alignment: 9
+      pivot: {x: 0.12882943, y: 0.90728414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.527893, y: 10.291458}
+        - {x: -7.472107, y: 10.291458}
+        - {x: -7.472107, y: -100.70854}
+        - {x: 43.527893, y: -100.70854}
+        - {x: 50.527893, y: -88.70854}
+        - {x: 50.527893, y: -62.70854}
+        - {x: 43.527893, y: -59.70854}
+    - name: RightLeg
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 30
+        width: 57
+        height: 111
+      alignment: 9
+      pivot: {x: 0.16008611, y: 0.95577025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.124908, y: 4.9095}
+        - {x: -9.124908, y: 2.9095001}
+        - {x: -9.124908, y: -106.0905}
+        - {x: 38.87509, y: -106.0905}
+        - {x: 47.87509, y: -95.0905}
+        - {x: 47.87509, y: -64.0905}
+        - {x: 14.875092, y: 4.9095}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

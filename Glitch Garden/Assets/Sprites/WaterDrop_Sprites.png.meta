@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: ec0e452efac43493aaea98cf51abc10e
+timeCreated: 1465858172
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WaterDrop_Sprites_0
+    21300002: WaterDrop_Sprites_1
+    21300004: WaterDrop_Sprites_2
+    21300006: WaterDrop_Sprites_3
+    21300008: WaterDrop_Sprites_4
+    21300010: WaterDrop_Sprites_5
+    21300012: WaterDrop_Sprites_6
+    21300014: WaterDrop_Sprites_7
+    21300016: WaterDrop_Sprites_8
+    21300018: WaterDrop_Sprites_9
+    21300020: WaterDrop_Sprites_10
+    21300022: WaterDrop_Sprites_11
+    21300024: WaterDrop_Sprites_12
+    21300026: WaterDrop_Sprites_13
+    21300028: WaterDrop_Sprites_14
+    21300030: WaterDrop_Sprites_15
+    21300032: WaterDrop_Sprites_16
+    21300034: WaterDrop_Sprites_17
+    21300036: WaterDrop_Sprites_18
+    21300038: WaterDrop_Sprites_19
+    21300040: WaterDrop_Sprites_20
+    21300042: WaterDrop_Sprites_21
+    21300044: WaterDrop_Sprites_22
+    21300046: WaterDrop_Sprites_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 177.77
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WaterDrop_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16.5}
+        - {x: -17, y: 15.5}
+        - {x: -22, y: 10.5}
+        - {x: -22, y: -1.5}
+        - {x: -20, y: -10.5}
+        - {x: -7, y: -16.5}
+        - {x: 11, y: -16.5}
+        - {x: 22, y: -7.5}
+        - {x: 22, y: 16.5}
+    - name: WaterDrop_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 20.5}
+        - {x: -30, y: 19.5}
+        - {x: -30, y: -1.5}
+        - {x: -14, y: -20.5}
+        - {x: 23, y: -20.5}
+        - {x: 30, y: -1.5}
+        - {x: 30, y: 19.5}
+        - {x: 28, y: 20.5}
+    - name: WaterDrop_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -12}
+        - {x: -17, y: -22}
+        - {x: 10, y: -22}
+        - {x: 29, y: -14}
+        - {x: 29, y: 22}
+        - {x: -29, y: 22}
+      - - {x: -27, y: 15}
+        - {x: -29, y: 13}
+        - {x: -29, y: 8}
+        - {x: -27, y: 6}
+        - {x: -25, y: 6}
+        - {x: -22, y: 9}
+        - {x: -22, y: 12}
+        - {x: -25, y: 15}
+      - - {x: 25, y: 15}
+        - {x: 22, y: 12}
+        - {x: 22, y: 9}
+        - {x: 25, y: 6}
+        - {x: 27, y: 6}
+        - {x: 29, y: 8}
+        - {x: 29, y: 13}
+        - {x: 27, y: 15}
+    - name: WaterDrop_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 30
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 5}
+        - {x: -30, y: -2}
+        - {x: -30, y: -15}
+        - {x: -26, y: -19}
+        - {x: 18, y: -19}
+        - {x: 30, y: -15}
+        - {x: 30, y: -3}
+        - {x: 20, y: 5}
+      - - {x: -30, y: 13}
+        - {x: -30, y: 6}
+        - {x: -26, y: 6}
+        - {x: -24, y: 8}
+        - {x: -24, y: 11}
+        - {x: -25, y: 13}
+      - - {x: 25, y: 13}
+        - {x: 24, y: 11}
+        - {x: 24, y: 7}
+        - {x: 26, y: 6}
+        - {x: 30, y: 6}
+        - {x: 30, y: 13}
+      - - {x: -21, y: 12}
+        - {x: -17, y: 12}
+        - {x: -15, y: 13}
+        - {x: -15, y: 18}
+        - {x: -21, y: 18}
+      - - {x: 15, y: 18}
+        - {x: 15, y: 13}
+        - {x: 17, y: 12}
+        - {x: 21, y: 12}
+        - {x: 21, y: 18}
+      - - {x: -12, y: 19}
+        - {x: -12, y: 16}
+        - {x: -10, y: 14}
+        - {x: -7, y: 14}
+        - {x: -5, y: 16}
+        - {x: -5, y: 19}
+      - - {x: 5, y: 19}
+        - {x: 5, y: 16}
+        - {x: 7, y: 14}
+        - {x: 10, y: 14}
+        - {x: 12, y: 16}
+        - {x: 12, y: 19}
+    - name: WaterDrop_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 2.5}
+        - {x: -30, y: -4.5}
+        - {x: -30, y: -16.5}
+        - {x: -23, y: -18.5}
+        - {x: 27, y: -18.5}
+        - {x: 30, y: -17.5}
+        - {x: 30, y: -3.5}
+        - {x: 29, y: 0.5}
+        - {x: 14, y: 3.5}
+        - {x: -7, y: 3.5}
+      - - {x: -30, y: 10.5}
+        - {x: -30, y: 4.5}
+        - {x: -29, y: 3.5}
+        - {x: -28, y: 3.5}
+        - {x: -25, y: 6.5}
+        - {x: -25, y: 8.5}
+        - {x: -28, y: 11.5}
+      - - {x: 28, y: 11.5}
+        - {x: 25, y: 8.5}
+        - {x: 25, y: 6.5}
+        - {x: 28, y: 3.5}
+        - {x: 30, y: 4.5}
+        - {x: 30, y: 10.5}
+        - {x: 29, y: 11.5}
+      - - {x: -21, y: 17.5}
+        - {x: -23, y: 15.5}
+        - {x: -23, y: 12.5}
+        - {x: -21, y: 10.5}
+        - {x: -18, y: 10.5}
+        - {x: -16, y: 12.5}
+        - {x: -16, y: 15.5}
+        - {x: -18, y: 17.5}
+      - - {x: 18, y: 17.5}
+        - {x: 16, y: 16.5}
+        - {x: 16, y: 10.5}
+        - {x: 22, y: 10.5}
+        - {x: 23, y: 12.5}
+        - {x: 23, y: 16.5}
+        - {x: 21, y: 17.5}
+      - - {x: -12, y: 18.5}
+        - {x: -12, y: 15.5}
+        - {x: -10, y: 13.5}
+        - {x: -7, y: 13.5}
+        - {x: -5, y: 15.5}
+        - {x: -5, y: 18.5}
+      - - {x: 5, y: 18.5}
+        - {x: 5, y: 15.5}
+        - {x: 7, y: 13.5}
+        - {x: 10, y: 13.5}
+        - {x: 12, y: 15.5}
+        - {x: 12, y: 18.5}
+    - name: WaterDrop_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -6, y: 19}
+        - {x: -10, y: 18}
+        - {x: -12, y: 16}
+        - {x: -12, y: 14}
+        - {x: -11, y: 11}
+        - {x: -30, y: -2}
+        - {x: -30, y: -19}
+        - {x: 30, y: -19}
+        - {x: 30, y: -1}
+        - {x: 14, y: 17}
+      - - {x: -30, y: 6}
+        - {x: -30, y: 0}
+        - {x: -27, y: 0}
+        - {x: -25, y: 2}
+        - {x: -25, y: 4}
+        - {x: -27, y: 6}
+      - - {x: 25, y: 4}
+        - {x: 25, y: 2}
+        - {x: 27, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 6}
+        - {x: 27, y: 6}
+      - - {x: -23, y: 14}
+        - {x: -23, y: 9}
+        - {x: -22, y: 8}
+        - {x: -17, y: 8}
+        - {x: -16, y: 9}
+        - {x: -16, y: 14}
+      - - {x: 17, y: 14}
+        - {x: 16, y: 12}
+        - {x: 16, y: 10}
+        - {x: 18, y: 8}
+        - {x: 22, y: 8}
+        - {x: 23, y: 9}
+        - {x: 23, y: 14}
+    - name: WaterDrop_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -18}
+        - {x: 22, y: -17}
+        - {x: 22, y: 0}
+        - {x: 7, y: 17}
+        - {x: 6, y: 18}
+        - {x: -8, y: 18}
+        - {x: -22, y: 0}
+        - {x: -22, y: -17}
+        - {x: -18, y: -18}
+        - {x: 11, y: -18}
+        - {x: 12, y: -17}
+        - {x: 12, y: -15}
+        - {x: 12, y: -16}
+      - - {x: -7, y: 17}
+        - {x: -12, y: 17}
+        - {x: -12, y: 11}
+        - {x: -11, y: 10}
+        - {x: -7, y: 10}
+        - {x: -5, y: 12}
+        - {x: -5, y: 16}
+      - - {x: 6, y: 17}
+        - {x: 5, y: 16}
+        - {x: 5, y: 12}
+        - {x: 7, y: 10}
+        - {x: 11, y: 10}
+        - {x: 12, y: 12}
+        - {x: 12, y: 17}
+    - name: WaterDrop_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 10
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 10
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 11
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WaterDrop_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
