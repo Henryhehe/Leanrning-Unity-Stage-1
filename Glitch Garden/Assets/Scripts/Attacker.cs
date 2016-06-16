@@ -19,8 +19,13 @@ public class Attacker : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
-	transform.Translate(Vector3.left * CurrentSpeed * Time.deltaTime);
+	void Update ()
+	{
+		transform.Translate (Vector3.left * CurrentSpeed * Time.deltaTime);
+	// test the selected defenders function
+//		if (Button.DefenderSelected) {
+//			print (Button.DefenderSelected);
+//		}
 	}
 
 	public void SetSpeed (float speed)
@@ -31,14 +36,14 @@ public class Attacker : MonoBehaviour {
 	public void StrikeCurrentTarget (float damage)
 	{
 		if (currentTarget) {
-			print ("we find a currentTarget and it is" + currentTarget.name);
+//			print ("we find a currentTarget and it is" + currentTarget.name);
 			Health healthScript = currentTarget.GetComponent<Health> ();
 			if (healthScript) {
-				print ("and we also find a healthScript");
+//				print ("and we also find a healthScript");
 				healthScript.takeDamage (damage);
-				print (healthScript.healthPoint);
+//				print (healthScript.healthPoint);
 				if (healthScript.healthPoint <= 0) {
-				print("this is the point when the health reaches 0");
+//				print("this is the point when the health reaches 0");
 					healthScript.Die();
 					GetComponent<Fox> ().StopAttacking();
 				}
@@ -49,7 +54,7 @@ public class Attacker : MonoBehaviour {
 
 	public void Attack (GameObject obj)
 	{
-		print("I am attacking now");
+//		print("I am attacking now");
 		currentTarget = obj;
 	}
 	

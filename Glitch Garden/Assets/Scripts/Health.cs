@@ -16,13 +16,13 @@ public class Health : MonoBehaviour {
 	}
  	public void takeDamage (float damage)
 	{
-		print ("I am taking damage now");
+//		print ("I am taking damage now");
 		if (healthPoint > 0){
 			healthPoint = healthPoint - damage;
 		} 
 		}
  	public void Die() {
  	// Option trigger animation.
- 	Destroy(gameObject);
+ 	Destroy(gameObject.transform.parent.gameObject);
 	}
 }

@@ -6,6 +6,22 @@ public class Weapon : MonoBehaviour {
 	public float speed;
 	public float damage;
 
+
+	void OnTriggerEnter2D (Collider2D collider)
+	{
+		GameObject collidingObject = collider.gameObject; 
+		if (collidingObject.GetComponent<Health> ()) {
+			Health health = collidingObject.GetComponent<Health> ();
+			if (collidingObject.GetComponent<Attacker> ()) {
+			health.takeDamage(damage);
+			if (health.healthPoint <= 0) {
+					Destroy(collider.gameObject.transform.parent.gameObject);
+				}
+			}
+		}
+
+	}
+
 	// Use this for initialization
 	void Start () {
 	
@@ -15,8 +31,6 @@ public class Weapon : MonoBehaviour {
 	void Update () {
 		//calculate the position based on the frame
 		// the speed is continous
-
-
 		transform.Translate(Vector3.right * speed * Time.deltaTime);
 	}
 }
