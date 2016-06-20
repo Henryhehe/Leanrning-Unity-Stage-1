@@ -5,16 +5,15 @@ public class LittleGuy : MonoBehaviour {
 
 //	Animator LittleGuyAnimator;
 	// Use this for initialization
-	void OnTriggerEnter2D(Collider2D other)
+	// Use this for initialization
+	void OnTriggerEnter2D (Collider2D collider)
 	{
-//		Debug.Log("LittleGuy: " + other + " has collided with: " + gameObject); 
-	}		
+//		print(name + "attacking");
+		}
+
 	void Start () {
-//		LittleGuyAnimator =  GetComponent<Animator>();
+//		LittleGuyAnimator = GetComponent<Animator>();
+//		attacker = GetComponent<Attacker>();
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 }

@@ -23,6 +23,6 @@ public class Health : MonoBehaviour {
 		}
  	public void Die() {
  	// Option trigger animation.
- 	Destroy(gameObject.transform.parent.gameObject);
+ 	Destroy(gameObject);
 	}
 }

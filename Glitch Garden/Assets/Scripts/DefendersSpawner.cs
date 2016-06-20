@@ -6,6 +6,7 @@ public class DefendersSpawner : MonoBehaviour {
 //	private Vector3 inputPosition = new Vector3(0,0,0);
 	public Camera myCamera;
 	private GameObject DefenderParent;
+	private WaterDisplay waterDisplay;
 
 	// Use this for initialization
 
@@ -14,7 +15,7 @@ public class DefendersSpawner : MonoBehaviour {
 			if (!DefenderParent) {
 				DefenderParent = new GameObject ("DefenderParent");
 		}
-
+		waterDisplay = GameObject.FindObjectOfType<WaterDisplay>();
 	}
 
 		
@@ -25,12 +26,15 @@ public class DefendersSpawner : MonoBehaviour {
 		Vector2 PosVecor = SnapToGrid (CalculateWorldPointOfMouseClick ());
 		// test if selected
 		if (Button.DefenderSelected) {
-		//test if the position has been taken 
-				if(!GameObject.Find(PosVecor.ToString())){
-			GameObject newDefender = Instantiate (Button.DefenderSelected, PosVecor, Quaternion.identity) as GameObject;
-			newDefender.transform.parent = DefenderParent.transform;
-			newDefender.name = PosVecor.ToString();
-		}
+			//test if the position has been taken 
+			int DefenderCost = Button.DefenderSelected.GetComponentInChildren<Defenders> ().cost;
+			if (waterDisplay.UseWater (DefenderCost) == WaterDisplay.Status.SUCCESS) {
+				if (!GameObject.Find (PosVecor.ToString())) {
+					Spawn (PosVecor);
+				} 
+			}else {
+				Debug.Log("inSufficient amount");
+			}
 		}
 	}
 
@@ -55,5 +59,12 @@ public class DefendersSpawner : MonoBehaviour {
 		float newX = Mathf.RoundToInt (rawWorldPos.x);
 		float newY = Mathf.RoundToInt (rawWorldPos.y);
 		return new Vector2(newX, newY);
+	}
+
+	void Spawn(Vector2 PosVecor)
+	{
+		GameObject newDefender = Instantiate (Button.DefenderSelected, PosVecor, Quaternion.identity) as GameObject;
+		newDefender.transform.parent = DefenderParent.transform;
+		newDefender.name =PosVecor.ToString();
 	}
 }

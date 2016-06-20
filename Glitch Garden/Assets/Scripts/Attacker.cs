@@ -2,7 +2,10 @@
 using System.Collections;
 
 public class Attacker : MonoBehaviour {
-
+	// this is hoover the extra information on the tool bar
+	[Tooltip ("Average number of seconds between appearances")]
+	public float seenEverySeconds;
+	public float damage;
 	private float CurrentSpeed;
 	private GameObject currentTarget;
 //	private float damage =5;

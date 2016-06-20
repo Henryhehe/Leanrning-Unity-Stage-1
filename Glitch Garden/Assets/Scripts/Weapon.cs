@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Weapon : MonoBehaviour {
+public class EnemyWeapon : MonoBehaviour {
 
-	public float speed;
+//	public float speed;
 	public float damage;
 
 
@@ -12,10 +12,10 @@ public class Weapon : MonoBehaviour {
 		GameObject collidingObject = collider.gameObject; 
 		if (collidingObject.GetComponent<Health> ()) {
 			Health health = collidingObject.GetComponent<Health> ();
-			if (collidingObject.GetComponent<Attacker> ()) {
+			if (collidingObject.GetComponent<Defenders> ()) {
 			health.takeDamage(damage);
 			if (health.healthPoint <= 0) {
-					Destroy(collider.gameObject.transform.parent.gameObject);
+					Destroy(gameObject);
 				}
 			}
 		}
@@ -28,9 +28,9 @@ public class Weapon : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		//calculate the position based on the frame
-		// the speed is continous
-		transform.Translate(Vector3.right * speed * Time.deltaTime);
-	}
+//	void Update () {
+//		//calculate the position based on the frame
+//		// the speed is continous
+//		transform.Translate(Vector3.right * speed * Time.deltaTime);
+//	}
 }

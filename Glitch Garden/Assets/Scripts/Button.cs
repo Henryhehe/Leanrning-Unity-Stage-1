@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-using UnityEditor;
+using UnityEngine.UI;
 
 public class Button : MonoBehaviour {	
 	private Color defaultColor = Color.HSVToRGB(0f,0f,0f);
@@ -27,7 +27,7 @@ public class Button : MonoBehaviour {
 			DefenderSelected = selectedDefenderPrefab;
 			color = Color.HSVToRGB (0f, 0f, 1f);
 			sprite.color = color; 
-			print (name + "is touched");
+//			print (name + "is touched");
 				// this foreach is to black out all the other buttons in the array
 				foreach(Button thisButton in buttonArray) {
 				thisButton.GetComponent<SpriteRenderer>().color = defaultColor;

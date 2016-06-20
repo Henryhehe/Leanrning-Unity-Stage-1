@@ -15,7 +15,7 @@ public class Fox : MonoBehaviour{
 			Invoke("StopJumping",1f);
 		}
 		else if(collidingObject.GetComponent<Defenders>()){
-			FoxAnimator.SetBool("IsAttacking",true);
+			FoxAnimator.SetBool("isAttacking",true);
 //			print("Am I attacking now?");
 			attacker.Attack(collidingObject);
 		}
@@ -30,7 +30,7 @@ public class Fox : MonoBehaviour{
 		
 	}
 	public void StopAttacking(){
-		FoxAnimator.SetBool("IsAttacking",false);
+		FoxAnimator.SetBool("isAttacking",false);
 	}
 	void StopJumping() {
 		FoxAnimator.SetTrigger("Walking");
