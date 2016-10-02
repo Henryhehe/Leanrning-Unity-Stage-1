@@ -5,10 +5,9 @@ public class Paddle : MonoBehaviour {
 
 	public float xPosition;
 	public bool autoPlay = false;
-	private Ball ball;
 	public float minX,maxX;
 
-
+	private Ball ball;
 
 	void Start ()
 	{
