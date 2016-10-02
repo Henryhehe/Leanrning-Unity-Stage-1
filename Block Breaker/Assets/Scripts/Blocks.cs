@@ -3,14 +3,16 @@ using System.Collections;
 
 public class Blocks : MonoBehaviour {
 
-	private int timesHit;
 	public PlayWorld playWorld;
-	private LevelManager levelManager;
 	public AudioClip crack;
 	public Sprite[] hitSprites;
 	public static int breakableCount = 0;
-	private bool isBreakable;
 	public GameObject smoke;
+
+	private int timesHit;
+	private LevelManager levelManager;
+	private bool isBreakable;
+
 	// Use this for initialization
 	void Start ()
 	{
